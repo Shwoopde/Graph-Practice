@@ -15,5 +15,7 @@
     align-items: center;
     margin-bottom: 3em;
     margin-top: 3em;
+    max-width: 1000px;
+    margin: 0 auto;
 }
 
